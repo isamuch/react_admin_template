@@ -1,0 +1,16 @@
+{
+  "company": "TidBug.Project",
+  "menusTitle": {
+    "navigation": "Navigation",
+    "authentication": "Authentication",
+    "sample": "Sample"
+  },
+  "menus": {
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "register": "Register",
+    "404page": "404 Page",
+    "dataTable": "Data Table",
+    "datePicker": "Date Picker"
+  }
+}

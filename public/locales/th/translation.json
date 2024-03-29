@@ -1,0 +1,16 @@
+{
+  "company": "ติดบัค.โปรเจ็ค",
+  "menusTitle": {
+    "navigation": "การนำทาง",
+    "authentication": "การยืนยันตัวตน",
+    "sample": "ตัวอย่าง"
+  },
+  "menus": {
+    "dashboard": "แผงควบคุม",
+    "login": "เข้าสู่ระบบ",
+    "register": "ลงทะเบียน",
+    "404page": "หน้า 404",
+    "dataTable": "ตารางข้อมูล",
+    "datePicker": "ปฎิทิน"
+  }
+}
